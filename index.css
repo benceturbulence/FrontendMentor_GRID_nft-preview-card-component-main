@@ -14,7 +14,7 @@
 }
 
 body {
- /*   background-color: var(--main-bg); */
+ background-color: var(--main-bg); 
  font-family: 'Outfit', sans-serif;
 }
 
